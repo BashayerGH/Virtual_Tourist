@@ -69,7 +69,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
                 <pongPressGestureRecognizer allowableMovement="15" minimumPressDuration="0.5" id="EyU-8n-lw9">
                     <connections>
-                        <action selector="addPinGesture:" destination="BYZ-38-t0r" id="r6n-w2-NWj"/>
+                        <action selector="addPin:" destination="BYZ-38-t0r" id="ls8-IL-rKL"/>
                     </connections>
                 </pongPressGestureRecognizer>
             </objects>
